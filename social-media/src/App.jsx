@@ -5,7 +5,7 @@ import Header from "./Components/Header";
 import PostList from "./Components/PostList";
 
 import SideBar from "./Components/SideBar";
-import React, { useState } from "react";
+
 import PostListProvider from "./store/post-list-store";
 
 function App() {
