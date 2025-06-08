@@ -19,7 +19,7 @@ function CreatePost() {
          tags: tagsElement.current.value.split(" "),
       };
 
-      // Reset the form fields after submission
+      // this Reset the form fields after submission
       userIdElement.current.value = "";
       postTitleElement.current.value = "";
       postBodyElement.current.value = "";
