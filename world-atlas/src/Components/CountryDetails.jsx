@@ -2,7 +2,7 @@
 
 function CountryDetails() {
   return (
-    <div>CountryDetails</div>
+    <h1>Country details</h1>
   )
 }
 
